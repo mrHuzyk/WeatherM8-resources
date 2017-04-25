@@ -92,5 +92,12 @@
     <string-array name="pressure_level_entries">
         <item>Рівень моря</item>
         <item>Рівень міста</item>
+    <string-array name="aqi_value">
+        <item>Хороше</item>
+        <item>Середнє</item>
+        <item>Невідповіднє для особливо сприйнятливих</item>
+        <item>Неякісне</item>
+        <item>Дуже неякісне</item>
+        <item>Небезпечне</item>
     </string-array>
 </resources>
