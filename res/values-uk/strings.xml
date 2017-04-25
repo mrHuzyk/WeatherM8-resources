@@ -31,9 +31,9 @@
     <string name="activity_find_city_dialog_set">Налаштувати</string>
     <string name="activity_find_city_dialog_title">Місцезнаходження</string>
     <string name="activity_find_city_dialog_message">Дозволити погоді використовувати сервіс місцезнаходження?</string>
-    <string name="activity_main_time_format">E, д ММММ</string>
+    <string name="activity_main_time_format">E, d MMMM</string>
     <string name="activity_detail_time_format">EEEE</string>
-    <string name="hour_minute_time_format">ГГ:хв</string>
+    <string name="hour_minute_time_format">HH:mm</string>
     <string name="first_start_network_msg">"Для нормальної роботи програмі необхідне з\'єднання з мережею інтернет.
         Окрім цього необхідні наступні дозволи:
         \u2022 Доступ до місцезнаходження для визначення поточних координат пристрою.
